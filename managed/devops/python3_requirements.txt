@@ -18,10 +18,10 @@
 #
 # TODO: see if we can move to using Pundler (https://github.com/Deepwalker/pundler) instead.
 
-ansible==2.9.27
+ansible==8.5.0
 ansible-vault==2.1.0
 azure-common==1.1.28
-azure-identity==1.6.1
+azure-identity==1.19.0
 azure-mgmt-compute==27.1.0
 azure-mgmt-privatedns==1.0.0
 azure-mgmt-network==19.3.0
@@ -37,7 +37,7 @@ google-api-core==1.22.0
 google-auth==1.19.2
 grpcio==1.65.4
 grpcio-tools==1.65.4
-Jinja2==3.0.3
+Jinja2==3.1.5
 MarkupSafe==2.0.1
 mitogen==0.2.9
 msrestazure
